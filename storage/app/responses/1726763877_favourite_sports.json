@@ -1,0 +1,21 @@
+{
+    "survey_name": "Favourite Sports",
+    "questions": [
+        {
+            "text": "What is your Favourite Sports",
+            "answers": [
+                "Cricket",
+                "FootBall",
+                "VolleyBall",
+                "BasketBall",
+                "Table Tennis",
+                "Kabadi"
+            ]
+        }
+    ],
+    "responses": {
+        "answers": [
+            "FootBall"
+        ]
+    }
+}

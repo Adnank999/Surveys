@@ -1,0 +1,20 @@
+{
+    "survey_name": "Favourite Food",
+    "questions": [
+        {
+            "text": "What is your favourite Food?",
+            "answers": [
+                "Burger",
+                "Beef",
+                "Chicken",
+                "Fish",
+                "Rice"
+            ]
+        }
+    ],
+    "responses": {
+        "answers": [
+            "Rice"
+        ]
+    }
+}
