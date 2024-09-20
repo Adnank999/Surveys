@@ -1,0 +1,12 @@
+{
+    "name": "Choose Animals",
+    "questions": [
+        {
+            "text": "What is your favourite animal?",
+            "answers": [
+                "CAT",
+                "DOG"
+            ]
+        }
+    ]
+}
